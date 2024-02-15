@@ -25,6 +25,7 @@ This Discord bot integrates with Google Sheets to provide commands within Discor
 ```pip install -r requirements.txt```
 ### Configure Google Sheets API:
 - Follow Google's guide to create a service account and enable the Google Sheets API.
+https://developers.google.com/sheets/api/quickstart/python
 - Download the credentials file (creds.json) and place it in the bot's directory.
 ### Configure the Bot:
 - Create a config.json file in the bot's directory with the following structure:
