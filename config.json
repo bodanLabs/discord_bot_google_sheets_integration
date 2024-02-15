@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guildID": "YOUR_GUILD_ID",
+  "sheetID": "YOUR_GOOGLE_SHEET_ID"
+}
